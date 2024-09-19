@@ -4,12 +4,14 @@ The recommended resolutions are:
 640x480 up to 800kb/sec 112kb/sec audio
 This is not for movies but for logos and branding for indie games.
 Thanks to ross for helping me with the math to get 640x480 to work!
--------------------------------------------------------------------------------
+
+# This is fro hardware only not Dreamcast emulators there broken on this
+
 # WARNING not for long videos for short logo's company names at HQ
 # loading from /rd/ is fast and smooth loading from /cd/ is very slow might be fine for GDEMU
 # OLD info
 # PL_MPEG - MPEG1 Video decoder, MP2 Audio decoder, MPEG-PS demuxer
--------------------------------------------------------------------------------
+
 MPEG1 Decode library for Dreamcast Ver.0.8
 	2023/09/19 Twada
 #### UPDATES ####
