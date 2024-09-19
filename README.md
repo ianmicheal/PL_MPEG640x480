@@ -5,7 +5,7 @@ The recommended resolutions are:
 This is not for movies but for logos and branding for indie games.
 Thanks to ross for helping me with the math to get 640x480 to work!
 
-# This is fro hardware only not Dreamcast emulators there broken on this
+# This is for hardware only not Dreamcast emulators there broken on this
 
 # WARNING not for long videos for short logo's company names at HQ
 # loading from /rd/ is fast and smooth loading from /cd/ is very slow might be fine for GDEMU
