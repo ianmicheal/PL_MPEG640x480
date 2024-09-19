@@ -1,5 +1,6 @@
 # PL_MPEG640x480
 Optimized middleware for KallistiOS for intro logos you can auto load your main program
+Added implemented FSAA super sampling filtering.
 The recommended resolutions are:
 640x480 up to 800kb/sec 112kb/sec audio
 This is not for movies but for logos and branding for indie games.
