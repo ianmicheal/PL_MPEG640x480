@@ -1,4 +1,4 @@
-# PL_MPEG640x480
+# PL_MPEG640x480 WIP PLEASE DONT USE 
 Optimized middleware for KallistiOS for intro logos you can auto load your main program
 Added implemented FSAA super sampling filtering 1280x480.
 The recommended resolutions are:
